@@ -1,5 +1,5 @@
-# Test de Sermaluc - Fullstack Java Senior
-Este es el back-end del test de Sermaluc, desarrollado en SpringBoot.
+# Test de programación - Fullstack Java Senior
+Este es el back-end del test de programación, desarrollado en SpringBoot.
 
 ## Iniciar
 Para ejecutar la aplicación se debe utilizar el comando ./gradlew bootRun.
@@ -9,4 +9,4 @@ Los test están desarrollados utilizando JUnit. Se encuentran dentro de src/test
 
 ## Swagger
 Para iniciar Swagger se debe visitar la siguiente URL:
-http://localhost:8082/swagger-ui/index.html
+http://localhost:8080/swagger-ui/index.html
