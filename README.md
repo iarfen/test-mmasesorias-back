@@ -1,5 +1,5 @@
 # Test de programación - Fullstack Java Senior
-Este es el back-end del test de programación, desarrollado en SpringBoot.
+Este es el test de programación, desarrollado en SpringBoot.
 
 ## Iniciar
 Para ejecutar la aplicación se debe utilizar el comando ./gradlew bootRun.
